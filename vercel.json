@@ -2,9 +2,7 @@
   "version": 2,
   "buildCommand": "npm run build",
   "functions": {
-    "api/index.js": {
-      "runtime": "@vercel/node"
-    }
+    "api/index.js": {}
   },
   "routes": [
     {
